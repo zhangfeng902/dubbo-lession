@@ -6,7 +6,7 @@
     <dubbo:application name="dubbo-03-consumer" />
     
     <dubbo:reference interface="com.zhang.service.UserService" id="userService"
-                     url="dubbo://192.168.0.4:20880/com.zhang.service.UserService" />
+                     url="dubbo://192.168.0.5:20880/com.zhang.service.UserService" />
 
 <!--
     <dubbo:parameter key="qos.enable" value="true"/>              &lt;!&ndash;是否开启在线运维命令&ndash;&gt;
