@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: DUBBO-05-BOOT-CONSUMER
+dubbo:
+  application:
+    qos-enable: false

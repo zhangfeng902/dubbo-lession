@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: DUBBO-04-BOOT-PROVIDER
+dubbo:
+  protocol:
+    name: dubbo
+    port: -1
